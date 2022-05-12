@@ -1,0 +1,8 @@
+[Event "JUST_CHESS_GAME"]
+[Site "JanBajerGame"]
+[Date 21_05_2021_07_51_36]
+[Round 12]
+[White sample.HumanPlayer@3f59005]
+[Black sample.HumanPlayer@1daf4bb2]
+[Result 1-0]
+1. h4 g5 2. xg5 h6 3. xh6 Bg7 4. xg7 Nf6 5. xh8=Q+ Ng8 6. Qxg8# 1-0

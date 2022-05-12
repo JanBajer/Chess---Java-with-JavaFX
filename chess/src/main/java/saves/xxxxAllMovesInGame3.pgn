@@ -1,0 +1,10 @@
+[Event "JUST_CHESS_GAME"]
+[Site "JanBajerGame"]
+[Date 20_05_2021_15_58_06]
+[Round 34]
+[White sample.HumanPlayer@2eade2ce]
+[Black sample.HumanPlayer@321df9b0]
+[Result 1-0]
+1. h4 g5 2. xg5 h6 3. xh6 Nxh6 4. Rxh6 Nc6 5. Rh7 Bg7 6. Nf3 Nd4
+7. Ne5 Ne6 8. Rxh8+ Nf8 9. Rg8 Bh6 10. Ng4 Bg5 11. Nh6 Bh4 12. Rxf8+ Kxf8
+13. g3 Bxg3 14. d4 Bh4 15. Qd3 Bg3 16. Qg6 b6 17. Qg8 # 1-0
